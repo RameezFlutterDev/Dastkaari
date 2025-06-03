@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1014351234378",
+    "firebase_url": "https://chatappnetwork-default-rtdb.firebaseio.com",
+    "project_id": "chatappnetwork",
+    "storage_bucket": "chatappnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014351234378:android:cfc309cc7058a1b065adb3",
+        "android_client_info": {
+          "package_name": "com.example.chatup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZsEGrdj9e6Z3uMmfkaOs7n46eloS7VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014351234378:android:1bab3bfafa7a8a3d65adb3",
+        "android_client_info": {
+          "package_name": "com.example.dastkaari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZsEGrdj9e6Z3uMmfkaOs7n46eloS7VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
