@@ -51,7 +51,7 @@ Implemented **Item-Based Collaborative Filtering** using KNN (Cosine Similarity)
 
 Users can:
 - Launch the **AR Viewer** via camera
-- Visualize a 3D model of the product in their environment
+- Visualize a 2D model of the product in their environment
 - Interact via scale, rotation, and position
 
 > Note: Works on devices supporting ARCore (Android) or ARKit (iOS)
